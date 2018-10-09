@@ -1,0 +1,1 @@
+.fade-enter{-ms-transform:translateX(5%);opacity:0;transform:translateX(5%)}.fade-leave-to{opacity:0}.fade-enter-active,.fade-leave-active{transition:opacity .3s,transform .3s}.layout-enter[data-v-35c1c6bc],.layout-leave-to[data-v-35c1c6bc]{opacity:0}.layout-enter-active[data-v-35c1c6bc],.layout-leave-active[data-v-35c1c6bc]{transition:opacity .5s}
